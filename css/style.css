@@ -1,3 +1,39 @@
+* {
+  box-: border-box;
+}
+
+.restaurant-list {
+  width: 100%
+  }
+
+.location {
+  width: 80%
+}
+
+.content {
+  width: 80%
+}
+
+.arrow {
+  width: 10%
+  }
+
+.location {
+    background-color: #aaa
+  }
+
+.location:hover { color: #blue; }
+
+.content h1 {
+  font-size: 22px;
+  color: #000;
+}
+
+.content h3 {
+  font-size: 18px;
+  color: #000;
+}
+
 body {
   background-color: #333;
   font-family: sans-serif;
