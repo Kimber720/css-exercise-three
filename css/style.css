@@ -19,6 +19,7 @@
 .location {
     background-color: #aaa;
     width: 100%;
+    border-bottom: 1pk solid black;
   }
 
 .location:hover { color: #blue; }
