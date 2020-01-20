@@ -3,22 +3,22 @@
 }
 
 .restaurant-list {
-  width: 100%
+  width: 100%;
   }
 
 .content {
-  width: 80%
+  width: 80%;
   display: inline-block;
 }
 
 .arrow {
-  width: 10%
+  width: 10%;
   display: inline-block;
 }
 
 .location {
-    background-color: #aaa
-    width: 100%
+    background-color: #aaa;
+    width: 100%;
   }
 
 .location:hover { color: #blue; }
@@ -29,7 +29,7 @@
 }
 
 .content h3 {
-  font-size: 18px;
+  font-size: 14px;
   color: #000;
 }
 
