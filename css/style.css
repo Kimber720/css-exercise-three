@@ -1,5 +1,5 @@
-* {
-  box-: border-box;
+*, *:before, *:afer {
+  box-sizing: border-box;
 }
 
 .restaurant-list {
@@ -14,12 +14,13 @@
 .arrow {
   width: 10%;
   display: inline-block;
-}
+  float: right;
+  }
 
 .location {
     background-color: #aaa;
     width: 100%;
-    border-bottom: 1pk solid black;
+    border-bottom: .5px solid black;
   }
 
 .location:hover { color: #blue; }
@@ -27,6 +28,7 @@
 .content h1 {
   font-size: 22px;
   color: #000;
+  font-weight: bold;
 }
 
 .content h3 {
