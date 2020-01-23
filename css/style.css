@@ -9,17 +9,19 @@
 .content {
   width: 80%;
   display: inline-block;
+  padding: 2%;
 }
 
 .arrow {
   width: 10%;
   display: inline-block;
   float: right;
+  float: inherit;
   }
 
 .location {
-    background-color: #aaa;
-    width: auto;
+    background-color: #F0f3f4;
+    width: 100%;
     border-bottom: .5px solid black;
   }
 
@@ -44,7 +46,7 @@ body {
 
 .container {
   margin: 0 auto;
-  width: 420px;
+  width: 97%;
 }
 
 nav {
@@ -56,5 +58,5 @@ nav {
 }
 
 .restaurant-list {
-  padding-top: 40px;
+  padding-top: 50px;
 }
