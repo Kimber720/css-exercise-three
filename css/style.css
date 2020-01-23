@@ -3,7 +3,7 @@
 }
 
 .restaurant-list {
-  width: 100%;
+  width: 80%;
   }
 
 .content {
@@ -19,7 +19,7 @@
 
 .location {
     background-color: #aaa;
-    width: 100%;
+    width: auto;
     border-bottom: .5px solid black;
   }
 
@@ -52,8 +52,9 @@ nav {
   padding: 10px 0 15px 15px;
   position: fixed;
   width: 420px;
+  background-color: black;
 }
 
 .restaurant-list {
-  padding-top: 50px;
+  padding-top: 40px;
 }
