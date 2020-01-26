@@ -1,9 +1,9 @@
-*, *:before, *:afer {
+*, *:before, *:after {
   box-sizing: border-box;
 }
 
 .restaurant-list {
-  width: 80%;
+  width: 100%;
   }
 
 .content {
@@ -55,6 +55,7 @@ nav {
   padding: 10px 0 15px 15px;
   position: fixed;
   background-color: black;
+  width: 420px;
 }
 
 .restaurant-list {
